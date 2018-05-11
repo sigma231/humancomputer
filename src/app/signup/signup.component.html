@@ -1,0 +1,15 @@
+
+<div class="login-page">    
+  <div class="form">
+      <form class="register-form" (submit)="signup($event)">
+          <input type="text"name="name" placeholder="Name" />
+          <input type="password" name="password" placeholder="Password" />
+          <input type="text" name="email" placeholder="Email Address" />
+          <input type="number" placeholder="Phone Number" />
+          <button>Sign Up</button>
+          <p class="message">Already registered?
+              <a routerLink="/login">Sign In</a>
+          </p>
+      </form>
+  </div>
+</div>
