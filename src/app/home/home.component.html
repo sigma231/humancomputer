@@ -1,12 +1,12 @@
-<div class="">
 
 
-    <div id="slider" class="sl-slider-wrapper">
 
-<div class="sl-slider">
+  <div id="slider" class="sl-slider-wrapper"> 
 
-  <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
-    <div class="sl-slide-inner">
+  <div class="sl-slider">
+
+    <div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+      <div class="sl-slide-inner">
       <div class="bg-img bg-img-1"></div>
       <h2><a href="#">3 Acre Land</a></h2>
       <blockquote>              
@@ -91,7 +91,7 @@
 </nav>
 
 </div><!-- /slider-wrapper -->
-</div>
+
 
 
 
@@ -126,7 +126,7 @@
 <p class="price">Price: Ksh. {{item.price}}</p>
 <p class="price">Location: {{item.location}}</p>
 <div class="listing-detail"><span data-toggle="tooltip" data-placement="bottom" data-original-title="Bed Room">5</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Living Room">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Parking">2</span> <span data-toggle="tooltip" data-placement="bottom" data-original-title="Kitchen">1</span> </div>
-<a class="btn btn-primary" href="property-detail.php">View Details</a>
+<a class="btn btn-primary" routerLink="/singlepage/{{item.id}}">View Details</a>
 </div>
 </div>
 

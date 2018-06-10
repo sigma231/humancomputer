@@ -1,0 +1,18 @@
+
+<div class="search-bar">
+  <div class="row"><h4>Make a Visit Booking</h4></div>
+</div>
+<div class="login-page">    
+  <div class="form">
+      <form class="register-form" (submit)="signup($event)">
+          <input type="text"name="name" placeholder="Name" />
+          <input type="date" name="password" />
+          <input type="text" name="email" placeholder="Email Address" />
+          <input type="number" placeholder="Phone Number" />
+          <button>Sign Up</button>
+          <p class="message">Already registered?
+              <a routerLink="/login">Sign In</a>
+          </p>
+      </form>
+  </div>
+</div>

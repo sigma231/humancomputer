@@ -18,7 +18,7 @@
       <!-- Nav Starts -->
       <div class="navbar-collapse  ollapse">
         <ul class="nav navbar-nav navbar-right">
-         <li class="active" routerLink='/home'><a>Home</a></li>
+         <li (click)="homePageOpen()" routerLinkActive="active"><a>Home</a></li>
           <li><a href="">Properties</a></li>         
           <li><a href="">Investors Club</a></li>
           <li><a href="">Wekeza Diaspora</a></li>
@@ -46,8 +46,8 @@
 <a href="index.php"><img src="assets/images/gakuyologo.png" alt="Realestate"></a>
 
         <ul class="pull-right">
-          <li><a routerLink='/login' style="color:black">Login</a></li>
-          <li><a routerLink='/signup' style="color:black">Sign Up</a></li>
+          <!-- <li><a routerLink='/login' style="color:black">Login</a></li>
+          <li><a routerLink='/signup' style="color:black">Sign Up</a></li> -->
           
         </ul>
 </div>

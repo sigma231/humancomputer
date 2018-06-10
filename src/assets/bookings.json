@@ -1,0 +1,87 @@
+[
+    {
+  "id": 1,
+  "property_name": "Emmerich-White",
+  "price": "792002.14",
+  "location": "Changleng",
+  "description": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+}, {
+  "id": 2,
+  "property_name": "Kassulke, Kuvalis and Runte",
+  "price": "261690.77",
+  "location": "Lamoso",
+  "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus."
+}, {
+  "id": 3,
+  "property_name": "Trantow-Zulauf",
+  "price": "744059.48",
+  "location": "Ciawi",
+  "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+}, {
+  "id": 4,
+  "property_name": "Carter and Sons",
+  "price": "248846.75",
+  "location": "Slobozia",
+  "description": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+}, {
+  "id": 5,
+  "property_name": "Hayes, Corkery and Hoeger",
+  "price": "565740.07",
+  "location": "Barat",
+  "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+}, {
+  "id": 6,
+  "property_name": "Franecki-Lynch",
+  "price": "101649.13",
+  "location": "Beloha",
+  "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+}, {
+  "id": 7,
+  "property_name": "Greenfelder-Stoltenberg",
+  "price": "321653.55",
+  "location": "Carpentras",
+  "description": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+}, {
+  "id": 8,
+  "property_name": "Schumm and Sons",
+  "price": "405396.56",
+  "location": "Atikokan",
+  "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+}, {
+  "id": 9,
+  "property_name": "Pacocha, Welch and Hermann",
+  "price": "297329.38",
+  "location": "Cimonyong",
+  "description": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+}, {
+  "id": 10,
+  "property_name": "Gutmann LLC",
+  "price": "724638.83",
+  "location": "Nova Viçosa",
+  "description": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+}, {
+  "id": 11,
+  "property_name": "Hamill, Connelly and Terry",
+  "price": "293234.18",
+  "location": "København",
+  "description": "Sed ante. Vivamus tortor. Duis mattis egestas metus."
+}, {
+  "id": 12,
+  "property_name": "King, Botsford and Christiansen",
+  "price": "60674.85",
+  "location": "Yajiang",
+  "description": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+}, {
+  "id": 13,
+  "property_name": "Treutel and Sons",
+  "price": "39808.78",
+  "location": "Sicamous",
+  "description": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+}, {
+  "id": 14,
+  "property_name": "Jenkins, Huel and Brakus",
+  "price": "683050.91",
+  "location": "Khamis Mushait",
+  "description": "Phasellus in felis. Donec semper sapien a libero. Nam dui."
+}
+]
